@@ -1,0 +1,17 @@
+{
+  "channel_name": "DB 1.0",
+  "fanart": "",
+  "thumbnail": "",
+  "menu": [
+    {
+      "title": "FILM",
+      "link": "",
+      "thumbnail": ""
+    },
+    {
+      "title": "Serie",
+      "link": "",
+      "thumbnail": ""
+    }
+  ]
+}
